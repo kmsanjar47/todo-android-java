@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hintTextColor">#393737</color>
+    <color name="clickableTextColor">#00B8D4</color>
+    <color name="labelColor">#FF000000</color>
+    <color name="editTextBgColor">#ECECF1</color>
+    <color name="lightGreen">#64DD17</color>
+</resources>
