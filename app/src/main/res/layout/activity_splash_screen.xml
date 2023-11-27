@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SplashScreen"
-    android:background="@drawable/logo">
+    android:background="@drawable/logo"
+    android:scaleType="fitCenter">
 
 </RelativeLayout>

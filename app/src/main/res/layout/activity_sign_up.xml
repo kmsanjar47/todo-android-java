@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".SignUp"
     android:background="@drawable/bg"
+    android:scaleType="fitXY"
     >
 
     <ScrollView
@@ -243,7 +244,7 @@
 
             <Space
                 android:layout_width="match_parent"
-                android:layout_height="50dp"/>
+                android:layout_height="100dp"/>
 
 
         </LinearLayout>
